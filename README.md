@@ -79,12 +79,15 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=najwalegh&count_private=true&theme=dark&show_icons=true" alt="najwalegh" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=najwalegh&hide_border=true&theme=dark&show_icons=true" />
 </p>
-
+<hr />
+<br/>
 <p align="center">
 <a href="https://github.com/najwalegh/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=najwalegh&layout=compact&&type=donut&theme=dark&show_icons=true"/></a>
 </p>
+<b align="center" >Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+
 <!-- <p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=dark&show_icons=true" alt="amankr1619" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=dark&show_icons=true" alt="amankr1619" />
 </p>
  -->
 <hr />
