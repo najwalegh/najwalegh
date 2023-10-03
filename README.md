@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>🗯️ &nbsp;I am currently looking for a PFA internship in software development.</p>
-<p>❄️ &nbsp;I’m currently learning React, Spring, Node js and working on projects.</p>
-<p>🎓 &nbsp;I am currently in the second year of an engineering cycle in networks and information systems at <a href = "http://www.fstg-marrakech.ac.ma/FST/">faculty of science and technology</a>.</p>
+<p>🗯️ &nbsp;I am currently looking for a PFE internship in software development.</p>
+<p>❄️ &nbsp;I’m currently learning React, Spring, Next js and working on projects.</p>
+<p>🎓 &nbsp;I am currently in the third year of an engineering cycle in networks and information systems at <a href = "http://www.fstg-marrakech.ac.ma/FST/">faculty of science and technology</a>.</p>
 <!-- <p>🔭 &nbsp;I’ve previously worked as a Google Summer of Code Intern at <a href="https://www.gnome.org/">GNOME Organization</a> and as a Backend Developer for Nametrade.</p> -->
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
 <p>🌱 &nbsp;I'm on track for learning more about Blockchain, React and get into Open Source.</p>
