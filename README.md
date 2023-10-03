@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 ### 💻 &nbsp;Languages:
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![JavaSpring](https://img.shields.io/badge/-JavaSpring-05122A?style=flat&logo=javaspring)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ### 🚀 &nbsp;Technologies:
