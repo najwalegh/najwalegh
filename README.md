@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--   <a href="https://gitlab.gnome.org/amankrx/">
 		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 	</a> -->
-	<a href="mailto:n.leghris2@gmail.com">
+	<a href="mailto:leghrisnajwa@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
